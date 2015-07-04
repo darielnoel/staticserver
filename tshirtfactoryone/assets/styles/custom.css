@@ -87,6 +87,10 @@
   color: white;
 }
 
+a.m-horizontal-menu-item:active, a.m-horizontal-menu-item:link{
+color: white;
+}
+
 .sidebar-navigation-header{
   background-color: #2980b9;
   color: white;
