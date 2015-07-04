@@ -72,7 +72,6 @@
 
 .m-horizontal-menu-item{
   display: block;
-
   color: white;
   width: 95%;
   padding: 6px;
@@ -84,6 +83,9 @@
   text-align: center;
 }
 
+.m-horizontal-menu-item:visited{
+  color: white;
+}
 
 .sidebar-navigation-header{
   background-color: #2980b9;
