@@ -1,0 +1,182 @@
+.m-header-menu td{
+  border-right: 1px solid white;
+  background-color: #1abc9c;
+  height: 44px;
+  -webkit-transition: all .6s;
+     -moz-transition: all .6s;
+      -ms-transition: all .6s;
+       -o-transition: all .6s;
+          transition: all .6s;
+}
+
+.m-header-menu td:hover{
+  background-color: #16a085;
+}
+
+.m-header-menu td:first-child{
+ border-radius: 8px 0px 0px 8px;
+}
+
+.m-header-menu td:last-child{
+ border-radius: 0px 8px 8px 0px;
+}
+
+.m-header-menu-item{
+  display: block;
+
+  color: white;
+  width: 95%;
+  padding: 6px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 90%;
+  text-decoration: none;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 900;
+  text-align: center;
+}
+
+
+.m-search{
+  margin-top: 10px;
+}
+
+.hg-10{
+  height: 10px;
+}
+
+
+.m-horizontal-menu td{
+  border-right: 1px solid white;
+  background-color: #58ACE3;
+  height: 44px;
+  -webkit-transition: all .6s;
+     -moz-transition: all .6s;
+      -ms-transition: all .6s;
+       -o-transition: all .6s;
+          transition: all .6s;
+
+}
+
+.m-horizontal-menu td:hover{
+  background-color: #2980b9;
+}
+
+.m-horizontal-menu td:first-child{
+ border-radius: 8px 0px 0px 8px;
+}
+
+.m-horizontal-menu td:last-child{
+ border-radius: 0px 8px 8px 0px;
+}
+
+.m-horizontal-menu-item{
+  display: block;
+
+  color: white;
+  width: 95%;
+  padding: 6px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-decoration: none;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 900;
+  text-align: center;
+}
+
+
+.sidebar-navigation-header{
+  background-color: #2980b9;
+  color: white;
+  text-align: center;
+  font-weight: 900;
+  height: 35px;
+  width: 208px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.sidebar-navigation ul{
+  -webkit-padding-start: 22px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.sidebar-navigation li{
+  list-style-type: none;
+  padding: 10px;
+}
+
+#tshirtfoCATBG a{
+  color: #484A4C;
+  -webkit-transition: all .2s;
+     -moz-transition: all .2s;
+      -ms-transition: all .2s;
+       -o-transition: all .2s;
+          transition: all .2s;
+}
+
+#tshirtfoCATBG a:hover {
+color: #2980b9;
+font-size: 110%;
+}
+
+div#tshirtfoCATPADDING {
+ margin-top: 0px;
+}
+
+.categories-header{
+  background-color: #58ACE3;
+  color: white;
+  font-weight: 900;
+  height: 35px;
+  width: 208px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.categories-header p{
+  margin-left: 10px;
+}
+
+
+#main .tshirtfoSHOPBY a{
+  color: #484A4C;
+  font-weight: normal;
+}
+
+#main .tshirtfoSHOPBY a:hover{
+}
+
+#hpbrands td{
+  transition: all 0.6s;
+
+}
+
+#hpbrands td:hover{
+  background-color: white;
+  border: none;
+  -webkit-transform: scale3d(1.2, 1.2, 1.2);
+  -ms-transform: scale3d(1.2, 1.2, 1.2);
+  transform: scale3d(1.2, 1.2, 1.2);
+webkit-box-shadow: 0 5px 15px rgba(0,0,0,.5);
+box-shadow: 0 5px 15px rgba(0,0,0,.5);
+
+}
+
+.m-search{
+
+}
+
+.m-search .search-button{
+  width: 74px;
+  height: 27px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  font-size: 109%;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+
+
