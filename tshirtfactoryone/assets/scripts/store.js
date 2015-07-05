@@ -5,7 +5,7 @@ jQuery(document).ready(function($){
   //Content Area Mods
   if(pageName != "PageAboutMeViewStore") {
     $(".pagecontainer > table:eq(1) tr:first td:first").addClass("tshirtfoMAINBG");
-    $(".tshirtfoMAINBG table:eq(4)").addClass("tshirtfoCONTENT");
+    $(".tshirtfoMAINBG table:eq(6)").addClass("tshirtfoCONTENT");
     $(".tshirtfoCONTENT").find("br[clear = none]").remove();
   }
 
