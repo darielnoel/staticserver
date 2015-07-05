@@ -13,7 +13,7 @@ jQuery(document).ready(function($){
   var d = new Date();
   var footer = "<table align=\"center\" width=\"940\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"margin-bottom: 22px;\">";
   footer += "<tr>";
-  footer += "<td id=\"tshirtfoFOOTER\"><p>" + d.getFullYear() + " &copy; Your Favorite T-Shirt | All Rights Reserved. | <a href=\"http:\/\/anijs.github.io\" target=\"_blank\">Custom eBay Store Designs<\/a><\/p><\/td>";
+  footer += "<td id=\"tshirtfoFOOTER\"><p>" + d.getFullYear() + " &copy; T-Shirt Factory One | All Rights Reserved. | <a href=\"http:\/\/anijs.github.io\" target=\"_blank\">Custom eBay Store Designs<\/a><\/p><\/td>";
   footer += "<\/tr>";
   footer += "<\/table>";
   if(pageName != "PageAboutMeViewStore") {
