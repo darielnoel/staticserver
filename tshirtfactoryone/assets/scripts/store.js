@@ -18,7 +18,7 @@ jQuery(document).ready(function($){
   footer += "<\/table>";
   if(pageName != "PageAboutMeViewStore") {
     if($(".tshirtfoCONTENT").length > 0) {
-      $(".tshirtfoCONTENT")[1].after(footer);
+      $($(".tshirtfoCONTENT")[1]).after(footer);
     }
   }
 });
